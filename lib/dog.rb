@@ -4,19 +4,19 @@ class Dog
 #     @name = name
 #   end
  
-  def name   
+  def name             # reader method
     @name
   end
  
-  def name=(new_name)
+  def name=(new_name)   # writer method
     @name = new_name
   end
   
-  def breed   
+  def breed           # reader method
     @breed
   end
  
-  def breed=(new_breed)
+  def breed=(new_breed)   # writer method
     @breed = new_breed
   end
   
