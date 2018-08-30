@@ -1,4 +1,4 @@
-def Person 
+class Person 
   
   def name             # reader method
     @name
