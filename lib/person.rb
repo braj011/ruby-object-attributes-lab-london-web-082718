@@ -8,11 +8,11 @@ def Person
     @name = new_name
   end
   
-  def breed           # reader method
-    @breed
+  def job           # reader method
+    @job
   end
  
-  def breed=(new_breed)   # writer method
+  def job=(new_job)   # writer method
     @breed = new_breed
   end
   
