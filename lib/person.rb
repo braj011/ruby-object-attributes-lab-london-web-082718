@@ -13,7 +13,7 @@ def Person
   end
  
   def job=(new_job)   # writer method
-    @breed = new_breed
+    @job = new_job
   end
   
   
